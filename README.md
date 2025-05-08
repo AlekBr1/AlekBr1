@@ -1,4 +1,4 @@
-# Olá, me chamo <strong><i>Aleksander</i></strong>
+# Olá, me chamo <strong>Aleksander</strong>
 <br>
 
 <div> 
