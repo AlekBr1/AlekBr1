@@ -8,15 +8,8 @@
                                                                                                                                                      
 <br>
 
-<div style="display: inline_block"><br>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40px">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">
-<img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px">
-<img align="center" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width="40px">
-<img align="center" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="40px">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40px">
-<img align="right" src="https://i.picasion.com/pic92/127374154b7e8f434a7193d528e77170.gif" width="150px" height="150px">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,nodejs,git,vscode,tailwind&theme=light)](https://skillicons.dev)
+
 
 ##
 
