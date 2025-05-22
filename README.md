@@ -2,8 +2,16 @@
 <br>
 
 <div> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlekBr1&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlekBr1&show_icons=true&theme=light">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlekBr1&show_icons=true&theme=tokyonight" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekBr1&layout=compact&langs_count=16&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekBr1&layout=compact&langs_count=16&theme=light">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekBr1&layout=compact&langs_count=16&theme=tokyonight" />
+</picture>
 </div>
                                                                                                                                                      
 <br>
