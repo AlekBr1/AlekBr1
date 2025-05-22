@@ -8,7 +8,12 @@
                                                                                                                                                      
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=light">
+  
+  ![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=dark)
+</picture>
 
 
 <div>
