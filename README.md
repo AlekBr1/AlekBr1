@@ -8,13 +8,60 @@
                                                                                                                                                      
 <br>
 
+<div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=light">
-  
-  ![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,react,nodejs,git,vscode,tailwind&theme=dark)
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light">
+  <img alt="Html" src="https://skillicons.dev/icons?i=html&theme=light">
 </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=css&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=java&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=js&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=ts&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=react&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=nodejs&theme=light">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=git&theme=light">
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=tailwind&theme=light">
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
+  <img alt="" src="https://skillicons.dev/icons?i=vscode&theme=light">
+</picture>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/aleksander-silva-0a58a927b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
